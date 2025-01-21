@@ -5,13 +5,12 @@
 
 ---
 
-## 🌟 GitHub Stats
-![Fernando's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fernandowoidello&show_icons=true&theme=radical)
+## 🌟 GitHub Stats |  ## 💻 Linguagens Mais Usadas
 
----
-
-## 💻 Linguagens Mais Usadas
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandowoidello&layout=compact&theme=radical)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandowoidello&show_icons=true&theme=radical" alt="Fernando's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandowoidello&layout=compact&theme=radical" alt="Top Languages"/>
+</div>
 
 ---
 
