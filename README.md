@@ -15,8 +15,9 @@
 
 ---
 
-## 🐍 Cobrinha comendo meus commits!
-![Snake animation](https://github.com/fernandowoidello/fernandowoidello/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Snake Commit
+![Snake animation](https://<fernandowoidello>.github.io/<fernandowoidello>/github-contribution-grid-snake.svg)
+
 
 ---
 
