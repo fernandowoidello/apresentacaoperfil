@@ -5,7 +5,7 @@
 
 ---
 
-## 🌟 GitHub Stats |  ## 💻 Linguagens Mais Usadas
+## 🌟 GitHub Stats 
 
 <div style="text-align: left;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandowoidello&show_icons=true&theme=radical" alt="Fernando's GitHub Stats"/>
